@@ -1,14 +1,14 @@
 /* Esercizio 96 
    In un vettore sono contenuti i prezzi di vendita di un determinato prodotto
-   relativamente agli N supermercati dove è presente. Il codice del supermercato
+   relativamente agli N supermercati dove Ã¨ presente. Il codice del supermercato
    corrisponde all'indice del vettore.
    Scrivi un programma che dopo aver caricato i dati permetta di:
 		a. stampare il minimo prezzo registrato e il codice del supermercato in 
-		cui si è rilevato;
+		cui si Ã¨ rilevato;
 		b. stampare la differenza di ciascun prezzo da uno specifico valore 
 		fornito in input;
 		c.dato il codice di un supermercato, ne stampi il prezzo o una 
-		segnalazione se non è presente.  
+		segnalazione se non Ã¨ presente.  
 */
 
 #include <stdio.h>
